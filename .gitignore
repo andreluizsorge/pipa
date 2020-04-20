@@ -1,0 +1,6 @@
+pipa-parent/.project
+pipa-parent/.settings/
+pipa-parent/Api/pipa-integration-api/.settings/
+pipa-parent/Api/pipa-integration-api/target/
+pipa-parent/Core/pipa-core-domain/.settings/
+pipa-parent/Core/pipa-core-domain/target/

@@ -1,0 +1,11 @@
+logging:
+  level.: INFO
+
+scoretable:
+  limit: 20000
+  
+
+server:
+     port: 8080
+     tomcat:
+       max-threads: 100000000
