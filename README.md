@@ -38,11 +38,3 @@ https://documenter.getpostman.com/view/788715/Szf6XodK?version=latest#418914d2-2
 ## Authors
 
 * **André Sorge** - *Initial work* - [andreluizsorge](https://github.com/andreluizsorge)
-
-## Comments
-
-* Em um primeiro momento eu pensei em utilizar a arquitetura ZUP (Orientação a Eventos) 
-mas tive muitos problemas, pois eu nao queria utilziar nenhum framework de FIFO (ActiveMQ ou Camel) pois
-um dos requisitos era a performace.
-Eu tomei bastante cuidado em manter o codigo bem organizado e bem orientado a objetos, pois dessa maneira 
-é possivel mexer no projeto sem causar muito impacto.
